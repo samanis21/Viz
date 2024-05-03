@@ -1,4 +1,4 @@
-",SalesOrder,SalesOrderItem,SalesOrderCreationDate,CustomerKey,MaterialKey,OrderQuantity,PlantKey,MaterialPlantKey,SalesDocType,RequestedDeliveryDate,DeliveryDate,HighOrderQtyFlag"
+"","SalesOrder","SalesOrderItem","SalesOrderCreationDate","CustomerKey","MaterialKey","OrderQuantity","PlantKey","MaterialPlantKey","SalesDocType","RequestedDeliveryDate","DeliveryDate","HighOrderQtyFlag"
 "1,10000001,10,2024-10-08,349,1,26,4,10004,""Regular"",2024-11-15,2024-11-15,0"
 "2,10000002,10,2023-05-27,759,1,20,5,10005,""Regular"",2023-06-15,2023-06-12,0"
 "3,10000003,10,2022-03-15,996,1,13,5,10005,""Regular"",2022-04-15,2022-04-15,0"
